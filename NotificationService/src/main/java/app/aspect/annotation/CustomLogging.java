@@ -1,4 +1,4 @@
-package app.aop.aspect.annotation;
+package app.aspect.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
